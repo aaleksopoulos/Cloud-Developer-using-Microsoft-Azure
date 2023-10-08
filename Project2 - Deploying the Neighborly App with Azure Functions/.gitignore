@@ -1,0 +1,4 @@
+.venv
+/NeighborlyFrontEnd/venv
+/NeighborlyAPI/.venv
+/NeighborlyFrontEnd/.venv
